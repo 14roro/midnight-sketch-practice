@@ -4,12 +4,9 @@
     box-sizing: border-box;
 }
 
-h1, p {
-    font-family: sans-serif;
-}
-
 body {
     background-color: #121212;
     color: #ffffff;
+    font-family: sans-serif;
 }
 
