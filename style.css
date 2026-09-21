@@ -20,3 +20,7 @@ h1 {
     flex-direction: column;
     align-items: center;
 }
+
+.s1-cta {
+    display: flex;
+}
