@@ -24,3 +24,9 @@ h1 {
 .s1-cta {
     display: flex;
 }
+
+.button-stack {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
